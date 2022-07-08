@@ -9,3 +9,5 @@ node1更新了！
 试一下vs的提取功能
 
 推给node1
+
+没push的时候再add
